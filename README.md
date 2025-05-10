@@ -214,7 +214,7 @@ Dựa trên biểu thức Boolean, các cạnh trong đồ thị được xác �
   - Sử dụng thuật toán để tìm đường đi Euler Path.
 - **Ví dụ minh họa:**
   - Biểu thức `A*B + E + C*D` được chuyển đổi và xử lý để tạo đồ thị PMOS và đường đi Euler Path.
-### **Hướng dẫn nối nguồn và đất trong CMOS**
+### **nối nguồn và đất trong CMOS**
 
 #### **1. Nối nguồn đất và đầu ra trong NMOS (Pull-Down Network)**
 
